@@ -1,4 +1,4 @@
-# Pilot Light (NASA-SpaceApp2020)
+# Pilot Light Website (NASA-SpaceApp2020)
 Pilot Light - NASA Space App Challenge Covid19 (2020)  
 
 ***ABOUT***  
